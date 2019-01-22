@@ -7,3 +7,4 @@ This is a simple file.
 #adding new text2
 
 i hope this isn't a problem
+this will cause trouble
