@@ -6,5 +6,4 @@ This is a simple file.
 #adding new text
 #adding new text2
 
-i hope this isn't a problem
-this will cause trouble
+just something going on
